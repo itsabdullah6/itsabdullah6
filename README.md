@@ -2,17 +2,20 @@
 =====================================================================
  HOW TO KEEP THIS README UP TO DATE
 =====================================================================
- 🖼️  ADD A PROFILE PHOTO  → Ctrl+F "ADD A PROFILE PHOTO"
  🧰  ADD A NEW SKILL       → Ctrl+F "ADD A NEW SKILL"
  🚀  ADD A NEW PROJECT     → Ctrl+F "ADD A NEW PROJECT"
  Each marker has a ready-made template right under it —
  copy the template, paste it, edit the details. That's it.
+
+ Header banner image: this repo needs a file at assets/header-banner.png
+ (the Earth / space-station artwork with your name on it). Upload it to
+ that exact path and the banner below will render.
 =====================================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=220&section=header&text=Muhammad%20Abdullah&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%26%20SQL&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/header-banner.png" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+Muhammad+Abdullah%27s+GitHub+Profile;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Decisions;Building+FinSight+%26+StorePro" alt="Typing SVG" />
@@ -38,16 +41,6 @@
 <br/>
 
 ## 📊 About Me
-
-<!-- 📸 ADD A PROFILE PHOTO
-   Uncomment the <img> line below and point it at your own image.
-   Easiest ways to host the image:
-     1) Add the file to this repo (e.g. an "assets" folder → assets/profile.png), then use:
-        src="https://raw.githubusercontent.com/itsabdullah6/itsabdullah6/main/assets/profile.png"
-     2) Or drag-and-drop the image into any GitHub comment/issue text box —
-        GitHub instantly gives you a hosted link you can paste below.
--->
-<!-- <img src="assets/profile.png" width="150" align="right" style="border-radius: 50%; margin-left: 20px;" /> -->
 
 <table width="100%">
 <tr>
@@ -268,7 +261,7 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <a href="https://github.com/itsabdullah6">
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" />
 </a>
-<a href="mailto:abdullah.muhammad5538@gmail.com">
+<a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" />
 </a>
 </p>
