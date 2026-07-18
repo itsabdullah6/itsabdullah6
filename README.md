@@ -6,16 +6,12 @@
  🚀  ADD A NEW PROJECT     → Ctrl+F "ADD A NEW PROJECT"
  Each marker has a ready-made template right under it —
  copy the template, paste it, edit the details. That's it.
-
- Header banner image: this repo needs a file at assets/header-banner.png
- (the Earth / space-station artwork with your name on it). Upload it to
- that exact path and the banner below will render.
 =====================================================================
 -->
 
 <div align="center">
 
-<img src="assets/header-banner.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=220&section=header&text=Muhammad%20Abdullah&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%26%20SQL&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+Muhammad+Abdullah%27s+GitHub+Profile;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Decisions;Building+FinSight+%26+StorePro" alt="Typing SVG" />
@@ -261,7 +257,7 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <a href="https://github.com/itsabdullah6">
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:abdullah.muhammad@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" />
 </a>
 </p>
