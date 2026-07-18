@@ -268,7 +268,7 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <a href="https://github.com/itsabdullah6">
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" />
 </a>
-<a href="abdullah.muhammad5538@gmail.com>
+<a href="mailto:abdullah.muhammad5538@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" />
 </a>
 </p>
