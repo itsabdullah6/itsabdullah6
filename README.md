@@ -2,16 +2,16 @@
 =====================================================================
  HOW TO KEEP THIS README UP TO DATE
 =====================================================================
- 🧰  ADD A NEW SKILL       → Ctrl+F "ADD A NEW SKILL"
- 🚀  ADD A NEW PROJECT     → Ctrl+F "ADD A NEW PROJECT"
- Each marker has a ready-made template right under it —
- copy the template, paste it, edit the details. That's it.
+ To add a new skill: duplicate a skill line in the Tech Stack section
+ and edit the text.
+ To add a new project: duplicate a project column in the Featured
+ Projects section and edit the details.
 =====================================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=220&section=header&text=Muhammad%20Abdullah&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%26%20SQL&descAlignY=55&descSize=18" width="100%"/>
+
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+Muhammad+Abdullah%27s+GitHub+Profile;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Decisions;Building+FinSight+%26+StorePro" alt="Typing SVG" />
@@ -113,34 +113,47 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 </td></tr>
 </table>
 
-<!-- 🧰 ADD A NEW SKILL
-   Copy the two lines below into any cell above (or start a new <tr><td valign="top" width="50%"> ... </td></tr> row
-   for a new category), then edit the skill name, percentage, and logo.
-   Find logo names at https://simpleicons.org
-
-<img src="https://img.shields.io/badge/SkillName-0A192F?style=for-the-badge&logo=LOGO_NAME&logoColor=64FFDA" />
-![](https://progress-bar.dev/70/?title=Skill+Name&width=260&color=64FFDA)
-
--->
-
 <br/>
 
 ## 📈 GitHub Analytics
 
 <table width="100%">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=itsabdullah6&show_icons=true&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&ring_color=64FFDA" width="100%"/>
+<td width="50%" align="center">
+
+**📊 GitHub Stats**
+
+<sub>Commits, stars, PRs & issues — view live on my [GitHub profile](https://github.com/itsabdullah6)</sub>
+
 </td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdullah6&layout=compact&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&langs_count=8" width="100%"/>
+<td width="50%" align="center">
+
+**💻 Top Languages**
+
+<sub>Python · SQL · DAX</sub>
+
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdullah6&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0" width="100%"/>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsabdullah6&theme=react-dark&hide_border=true&bg_color=0A192F&color=64FFDA&line=64FFDA&point=CCD6F6&area=true&area_color=64FFDA" width="100%"/>
+**🔥 Contribution Streak**
+
+<sub>Actively committing — check my [contribution graph](https://github.com/itsabdullah6)</sub>
+
+</td>
+<td width="50%" align="center">
+
+**📈 Contribution Activity**
+
+<sub>View the full activity graph on my [GitHub profile](https://github.com/itsabdullah6)</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -168,8 +181,6 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdullah6&repo=FinSight&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6" width="100%"/>
-
 **📊 FinSight — Personal Financial Intelligence Dashboard**
 
 | | |
@@ -187,8 +198,6 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdullah6&repo=StorePro&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6" width="100%"/>
 
 **🛒 StorePro — Store Management System**
 
@@ -208,34 +217,6 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 </td>
 </tr>
 </table>
-
-<!-- 🚀 ADD A NEW PROJECT
-   Copy the whole template block below, paste it as a new <td> (for a 3rd project alongside FinSight/StorePro,
-   just add it inside a NEW <tr>...</tr> since the current row already holds two), then edit:
-   repo=YOUR_REPO_NAME in the pin-card URL, the title, the details table, the tool badges, and the repo link.
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdullah6&repo=YOUR_REPO_NAME&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6" width="100%"/>
-
-**🆕 Project Title — Short Tagline**
-
-| | |
-|---|---|
-| **Type** | e.g. Data Analytics Dashboard |
-| **Tools** | e.g. Python, SQL, Power BI |
-| **Data Source** | Where the data came from |
-| **Highlight** | The standout feature, in a line or two |
-
-<img src="https://img.shields.io/badge/Tool-0A192F?style=flat-square&logo=LOGO_NAME&logoColor=64FFDA" />
-
-**[→ View Repository](https://github.com/itsabdullah6/YOUR_REPO_NAME)**
-
-</td>
-</tr>
-
--->
 
 <br/>
 
@@ -257,7 +238,7 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <a href="https://github.com/itsabdullah6">
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" />
 </a>
-<a href="mailto:abdullah.muhammad@gmail.com">
+<a href="mailto:abdullah.muhammad5538@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" />
 </a>
 </p>
@@ -265,5 +246,3 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <div align="center">
 <sub>Thanks for stopping by — let's turn data into decisions. 📊</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=120&section=footer" width="100%"/>
