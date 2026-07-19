@@ -6,15 +6,19 @@
  and edit the text.
  To add a new project: duplicate a project column in the Featured
  Projects section and edit the details.
+
+ GitHub Analytics chart: this repo needs a file at
+ assets/analytics-charts.gif (the animated tech-stack donut + skill
+ growth chart). Upload it to that exact path for the section to show.
 =====================================================================
 -->
 
 <div align="center">
 
-
+# Muhammad Abdullah
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+Muhammad+Abdullah%27s+GitHub+Profile;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Decisions;Building+FinSight+%26+StorePro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+Muhammad+Abdullah%27s+GitHub+Profile;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -117,43 +121,13 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 
 ## 📈 GitHub Analytics
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+<p align="center">
+<img src="assets/analytics-charts.gif" width="100%"/>
+</p>
 
-**📊 GitHub Stats**
-
-<sub>Commits, stars, PRs & issues — view live on my [GitHub profile](https://github.com/itsabdullah6)</sub>
-
-</td>
-<td width="50%" align="center">
-
-**💻 Top Languages**
-
-<sub>Python · SQL · DAX</sub>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-**🔥 Contribution Streak**
-
-<sub>Actively committing — check my [contribution graph](https://github.com/itsabdullah6)</sub>
-
-</td>
-<td width="50%" align="center">
-
-**📈 Contribution Activity**
-
-<sub>View the full activity graph on my [GitHub profile](https://github.com/itsabdullah6)</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<sub>🔗 Live commit stats, streaks &amp; contribution graph: <a href="https://github.com/itsabdullah6">github.com/itsabdullah6</a></sub>
+</p>
 
 <br/>
 
@@ -220,15 +194,6 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 
 <br/>
 
-## 🔧 Currently Building
-
-- 📈 Expanding **FinSight** with deeper fraud-detection analysis and additional KPI drill-downs
-- 🧾 Iterating on **StorePro**, refining the GUI and adding sales-trend reporting
-- 📚 Practicing advanced **DAX** and data modeling patterns in Power BI
-- 🗃️ Exploring **data warehousing** and ETL fundamentals to strengthen pipeline design
-
-<br/>
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -238,7 +203,7 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <a href="https://github.com/itsabdullah6">
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" />
 </a>
-<a href="mailto:abdullah.muhammad5538@gmail.com">
+<a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" />
 </a>
 </p>
