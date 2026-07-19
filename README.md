@@ -6,12 +6,16 @@
  and edit the text.
  To add a new project: duplicate a project column in the Featured
  Projects section and edit the details.
+
+ GitHub Analytics chart: this repo needs a file at
+ assets/skill-trajectory.png (the line chart with the glowing
+ endpoints). Upload it to that exact path for the section to show.
 =====================================================================
 -->
 
 <div align="center">
 
-
+# Muhammad Abdullah
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+Muhammad+Abdullah%27s+GitHub+Profile;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
@@ -117,47 +121,13 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 
 ## 📈 GitHub Analytics
 
-<table width="100%">
-<tr>
-<td width="50%">
+<p align="center">
+<img src="assets/skill-trajectory.png" width="100%"/>
+</p>
 
-```mermaid
-%%{init: {"theme": "base", "themeVariables": {
-  "pie1": "#64FFDA", "pie2": "#4FD1C5", "pie3": "#38BDF8",
-  "pie4": "#7DD3FC", "pie5": "#94A3B8",
-  "pieTitleTextColor": "#CCD6F6", "pieSectionTextColor": "#0A192F",
-  "pieLegendTextColor": "#CCD6F6", "pieStrokeColor": "#0A192F",
-  "pieOuterStrokeColor": "#233554"
-}}}%%
-pie showData
-    title Tech Stack Focus
-    "Python" : 30
-    "SQL" : 20
-    "Power BI" : 25
-    "Excel" : 15
-    "Other" : 10
-```
-
-</td>
-<td width="50%">
-
-```mermaid
-%%{init: {"theme": "base", "themeVariables": {
-  "pie1": "#64FFDA", "pie2": "#38BDF8", "pie3": "#233554",
-  "pieTitleTextColor": "#CCD6F6", "pieSectionTextColor": "#0A192F",
-  "pieLegendTextColor": "#CCD6F6", "pieStrokeColor": "#0A192F",
-  "pieOuterStrokeColor": "#233554"
-}}}%%
-pie showData
-    title Roadmap Progress
-    "Completed" : 4
-    "In Progress" : 3
-    "Planned" : 2
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+<sub>📌 Roadmap: Completed 4 · In Progress 3 · Planned 2</sub>
+</p>
 
 <br/>
 
