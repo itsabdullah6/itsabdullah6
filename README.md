@@ -120,13 +120,13 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 <tr>
 <td align="center" width="25%">
 
-### 30%
+### 70%
 <sub>Python Focus</sub>
 
 </td>
 <td align="center" width="25%">
 
-### 25%
+### 60%
 <sub>Power BI Focus</sub>
 
 </td>
