@@ -6,10 +6,6 @@
  and edit the text.
  To add a new project: duplicate a project column in the Featured
  Projects section and edit the details.
-
- GitHub Analytics chart: this repo needs a file at
- assets/analytics-charts.gif (the animated tech-stack donut + skill
- growth chart). Upload it to that exact path for the section to show.
 =====================================================================
 -->
 
@@ -121,13 +117,47 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-<img src="assets/analytics-charts.gif" width="100%"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%">
 
-<p align="center">
-<sub>🔗 Live commit stats, streaks &amp; contribution graph: <a href="https://github.com/itsabdullah6">github.com/itsabdullah6</a></sub>
-</p>
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "pie1": "#64FFDA", "pie2": "#4FD1C5", "pie3": "#38BDF8",
+  "pie4": "#7DD3FC", "pie5": "#94A3B8",
+  "pieTitleTextColor": "#CCD6F6", "pieSectionTextColor": "#0A192F",
+  "pieLegendTextColor": "#CCD6F6", "pieStrokeColor": "#0A192F",
+  "pieOuterStrokeColor": "#233554"
+}}}%%
+pie showData
+    title Tech Stack Focus
+    "Python" : 30
+    "SQL" : 20
+    "Power BI" : 25
+    "Excel" : 15
+    "Other" : 10
+```
+
+</td>
+<td width="50%">
+
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "pie1": "#64FFDA", "pie2": "#38BDF8", "pie3": "#233554",
+  "pieTitleTextColor": "#CCD6F6", "pieSectionTextColor": "#0A192F",
+  "pieLegendTextColor": "#CCD6F6", "pieStrokeColor": "#0A192F",
+  "pieOuterStrokeColor": "#233554"
+}}}%%
+pie showData
+    title Roadmap Progress
+    "Completed" : 4
+    "In Progress" : 3
+    "Planned" : 2
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
