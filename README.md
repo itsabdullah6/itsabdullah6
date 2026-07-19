@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# Muhammad Abdullah
+
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+Muhammad+Abdullah%27s+GitHub+Profile;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
