@@ -6,10 +6,6 @@
  and edit the text.
  To add a new project: duplicate a project column in the Featured
  Projects section and edit the details.
-
- GitHub Analytics chart: this repo needs a file at
- assets/skill-trajectory.png (the line chart with the glowing
- endpoints). Upload it to that exact path for the section to show.
 =====================================================================
 -->
 
@@ -121,13 +117,63 @@ I'm a Data Analytics student who enjoys turning messy, raw data into dashboards 
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-<img src="assets/skill-trajectory.png" width="100%"/>
-</p>
+<table width="100%">
+<tr>
+<td align="center" width="25%">
 
-<p align="center">
-<sub>📌 Roadmap: Completed 4 · In Progress 3 · Planned 2</sub>
-</p>
+### 30%
+<sub>Python Focus</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 25%
+<sub>Power BI Focus</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 20%
+<sub>SQL Focus</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 44%
+<sub>Roadmap Complete</sub>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**💻 Tech Stack Focus**
+
+```text
+Python      ██████░░░░░░░░░░░░░░  30%
+Power BI    █████░░░░░░░░░░░░░░░  25%
+SQL         ████░░░░░░░░░░░░░░░░  20%
+Excel       ███░░░░░░░░░░░░░░░░░  15%
+Other       ██░░░░░░░░░░░░░░░░░░  10%
+```
+
+</td>
+<td width="50%" valign="top">
+
+**🗺️ Roadmap Progress**
+
+```text
+Completed   █████████░░░░░░░░░░░  44%
+In Progress ███████░░░░░░░░░░░░░  33%
+Planned     ████░░░░░░░░░░░░░░░░  22%
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
